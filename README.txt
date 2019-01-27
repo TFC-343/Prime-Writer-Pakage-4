@@ -4,6 +4,7 @@
 
 -------
 
+DO NOT run any two codes at the same time in one folder
 this file uses primeList2.txt - and will be created after first run of any app in the folder
 
 -------
